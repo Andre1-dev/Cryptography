@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{5172378E-0C6F-4980-80B6-920118FBE9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia.Domain", "Criptografia.Domain\Criptografia.Domain.csproj", "{165BC644-E6C7-4B19-9CE9-72DD0611823A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia.Application", "Criptografia.Application\Criptografia.Application.csproj", "{D644F710-544E-43A2-A48D-0378281CDB01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5172378E-0C6F-4980-80B6-920118FBE9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172378E-0C6F-4980-80B6-920118FBE9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172378E-0C6F-4980-80B6-920118FBE9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172378E-0C6F-4980-80B6-920118FBE9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165BC644-E6C7-4B19-9CE9-72DD0611823A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165BC644-E6C7-4B19-9CE9-72DD0611823A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165BC644-E6C7-4B19-9CE9-72DD0611823A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165BC644-E6C7-4B19-9CE9-72DD0611823A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D644F710-544E-43A2-A48D-0378281CDB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D644F710-544E-43A2-A48D-0378281CDB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D644F710-544E-43A2-A48D-0378281CDB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D644F710-544E-43A2-A48D-0378281CDB01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3969445-4502-47CA-B441-025FA5A9E524}
+	EndGlobalSection
+EndGlobal
